@@ -1,7 +1,7 @@
 variable "prefix" {
   description = "The prefix used for any resources used, must be an alphanumberic string"
 }
-
+#test
 variable "location" {
   description = "The location where the Resources will be provisioned. This needs to be the same as where the Image exists."
 }
